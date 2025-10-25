@@ -1,7 +1,8 @@
 # 📝 Project Description
 
 This project is a simple web-based contact form built using HTML, CSS, and JavaScript, integrated with an n8n workflow for backend automation.
-
+The workflow automates data handling by storing form submissions in Google Sheets and sending confirmation emails via Gmail.
+Additionally, the website displays a real-time success message received directly from the workflow’s response, confirming that the email was sent successfully — showcasing seamless integration between the frontend and the n8n backend.
 ## 🎥 Video Demo
 
 [Watch Video Demo](./Demo.mp4)
