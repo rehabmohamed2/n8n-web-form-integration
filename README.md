@@ -8,7 +8,7 @@ This project is a simple web-based contact form built using HTML, CSS, and JavaS
 ![Contact Form Screenshot](./My_workflow_Screenshot.png)
 
 ### n8n Workflow
-![n8n Workflow Screenshot](./screenshots/workflow.png)
+![n8n Workflow Screenshot](./website_Screenshot.png)
 
 ## How It Works
 
